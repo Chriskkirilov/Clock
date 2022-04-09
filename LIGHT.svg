@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="793" height="793" viewBox="0 0 793 793">
+  <defs>
+    <filter id="Ellipse_1" x="82.5" y="85.5" width="629" height="629" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="17.5" result="blur"/>
+      <feFlood flood-color="#d8dcdf"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_2" x="87" y="90" width="620" height="620" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="35" result="blur-2"/>
+      <feFlood flood-color="#d8dcdf" flood-opacity="0.741"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-LIGHT">
+      <rect width="793" height="793"/>
+    </clipPath>
+  </defs>
+  <g id="LIGHT" clip-path="url(#clip-LIGHT)">
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="295" cy="295" r="295" transform="translate(102 105)" fill="#f5f5f5"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_1)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="262" cy="262" r="262" transform="translate(135 138)" fill="#fafdff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_2)">
+      <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="205" cy="205" r="205" transform="translate(192 195)" fill="#fff"/>
+    </g>
+    <text id="_12" data-name="12" transform="translate(386 129)" fill="#87939c" font-size="25" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">12</tspan></text>
+    <text id="_3" data-name="3" transform="translate(669 409)" fill="#87939c" font-size="25" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+    <text id="_6" data-name="6" transform="translate(393 686)" fill="#87939c" font-size="25" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">6</tspan></text>
+    <text id="_9" data-name="9" transform="translate(111 409)" fill="#87939c" font-size="25" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">9</tspan></text>
+    <line id="Line_15" data-name="Line 15" y2="10" transform="matrix(0.995, 0.105, -0.105, 0.995, 426.545, 153.527)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_16" data-name="Line 16" x1="20" y2="35" transform="translate(599.991 264.845) rotate(30)" fill="none" stroke="#a9b4bc" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_17" data-name="Line 17" y2="38" transform="translate(400.5 145.5)" fill="none" stroke="#a9b4bc" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_18" data-name="Line 18" y2="38" transform="translate(649 399.5) rotate(90)" fill="none" stroke="#a9b4bc" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_19" data-name="Line 19" y2="38" transform="translate(400.5 613.5)" fill="none" stroke="#a9b4bc" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_22" data-name="Line 22" y2="38" transform="translate(615.454 525) rotate(120)" fill="none" stroke="#a9b4bc" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_23" data-name="Line 23" y2="38" transform="translate(525.5 614.954) rotate(150)" fill="none" stroke="#a9b4bc" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_24" data-name="Line 24" y2="38" transform="translate(273.5 618.454) rotate(-150)" fill="none" stroke="#a9b4bc" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_25" data-name="Line 25" y2="38" transform="translate(181.546 527.5) rotate(-120)" fill="none" stroke="#a9b4bc" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_26" data-name="Line 26" y2="38" transform="translate(145 399.5) rotate(-90)" fill="none" stroke="#a9b4bc" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_27" data-name="Line 27" y2="38" transform="translate(179.546 271.5) rotate(-60)" fill="none" stroke="#a9b4bc" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_28" data-name="Line 28" y2="38" transform="translate(273.5 180.046) rotate(-30)" fill="none" stroke="#a9b4bc" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_33" data-name="Line 33" y2="10" transform="matrix(0.978, 0.208, -0.208, 0.978, 451.579, 157.5)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_34" data-name="Line 34" y2="10" transform="matrix(0.951, 0.309, -0.309, 0.951, 476.59, 164.5)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_35" data-name="Line 35" y2="10" transform="matrix(0.914, 0.407, -0.407, 0.914, 501.567, 174.011)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="12" cy="12" r="12" transform="translate(389 388)" fill="#feb4b4" opacity="0"/>
+    <g id="Group_2" data-name="Group 2">
+      <line id="Line_36" data-name="Line 36" y1="298" transform="translate(549.5 141.924) rotate(30)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_37" data-name="Line 37" y1="298" transform="matrix(0.914, 0.407, -0.407, 0.914, 521.708, 127.763)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_38" data-name="Line 38" y1="298" transform="matrix(0.951, 0.309, -0.309, 0.951, 492.587, 116.585)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_39" data-name="Line 39" y1="298" transform="matrix(0.978, 0.208, -0.208, 0.978, 462.458, 108.512)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_40" data-name="Line 40" y1="298" transform="matrix(0.995, 0.105, -0.105, 0.995, 431.65, 103.633)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_41" data-name="Line 41" y1="298" transform="matrix(0.809, 0.588, -0.588, 0.809, 575.66, 158.913)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_42" data-name="Line 42" y1="298" transform="translate(599.901 178.543) rotate(42)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_43" data-name="Line 43" y1="298" transform="translate(621.957 200.599) rotate(48)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_44" data-name="Line 44" y1="298" transform="matrix(0.588, 0.809, -0.809, 0.588, 641.587, 224.84)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_45" data-name="Line 45" y1="298" transform="translate(658.656 251) rotate(60)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_46" data-name="Line 46" y1="298" transform="matrix(0.407, 0.914, -0.914, 0.407, 672.736, 278.896)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_47" data-name="Line 47" y1="298" transform="matrix(0.309, 0.951, -0.951, 0.309, 683.995, 308.017)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_48" data-name="Line 48" y1="298" transform="matrix(0.208, 0.978, -0.978, 0.208, 692.032, 338.146)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_49" data-name="Line 49" y1="298" transform="matrix(0.105, 0.995, -0.995, 0.105, 696.948, 368.851)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+      <line id="Line_50" data-name="Line 50" x1="20" y2="35" transform="translate(505.944 182.155)" fill="none" stroke="#a9b4bc" stroke-linecap="round" stroke-width="5"/>
+    </g>
+    <g id="Component_4_1" data-name="Component 4 – 1" transform="translate(545.306 200.37) rotate(30)">
+      <line id="Line_51" data-name="Line 51" y2="10" transform="matrix(0.995, 0.105, -0.105, 0.995, 1.045, 0)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_52" data-name="Line 52" y2="10" transform="matrix(0.978, 0.208, -0.208, 0.978, 26.079, 3.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_53" data-name="Line 53" y2="10" transform="matrix(0.951, 0.309, -0.309, 0.951, 51.09, 10.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_54" data-name="Line 54" y2="10" transform="matrix(0.914, 0.407, -0.407, 0.914, 75.067, 21.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Component_4_2" data-name="Component 4 – 2" transform="translate(624.703 300.436) rotate(60)">
+      <line id="Line_51-2" data-name="Line 51" y2="10" transform="matrix(0.995, 0.105, -0.105, 0.995, 1.045, 0)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_52-2" data-name="Line 52" y2="10" transform="matrix(0.978, 0.208, -0.208, 0.978, 26.079, 3.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_53-2" data-name="Line 53" y2="10" transform="matrix(0.951, 0.309, -0.309, 0.951, 51.09, 10.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_54-2" data-name="Line 54" y2="10" transform="matrix(0.914, 0.407, -0.407, 0.914, 75.067, 21.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Component_4_3" data-name="Component 4 – 3" transform="translate(642.108 422.684) rotate(90)">
+      <line id="Line_51-3" data-name="Line 51" y2="10" transform="matrix(0.995, 0.105, -0.105, 0.995, 1.045, 0)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_52-3" data-name="Line 52" y2="10" transform="matrix(0.978, 0.208, -0.208, 0.978, 26.079, 3.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_53-3" data-name="Line 53" y2="10" transform="matrix(0.951, 0.309, -0.309, 0.951, 51.09, 10.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_54-3" data-name="Line 54" y2="10" transform="matrix(0.914, 0.407, -0.407, 0.914, 75.067, 21.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Component_4_4" data-name="Component 4 – 4" transform="translate(599 542.693) rotate(120)">
+      <line id="Line_51-4" data-name="Line 51" y2="10" transform="matrix(0.995, 0.105, -0.105, 0.995, 1.045, 0)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_52-4" data-name="Line 52" y2="10" transform="matrix(0.978, 0.208, -0.208, 0.978, 26.079, 3.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_53-4" data-name="Line 53" y2="10" transform="matrix(0.951, 0.309, -0.309, 0.951, 51.09, 10.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_54-4" data-name="Line 54" y2="10" transform="matrix(0.914, 0.407, -0.407, 0.914, 75.067, 21.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Component_4_5" data-name="Component 4 – 5" transform="translate(501.316 623.124) rotate(150)">
+      <line id="Line_51-5" data-name="Line 51" y2="10" transform="matrix(0.995, 0.105, -0.105, 0.995, 1.045, 0)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_52-5" data-name="Line 52" y2="10" transform="matrix(0.978, 0.208, -0.208, 0.978, 26.079, 3.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_53-5" data-name="Line 53" y2="10" transform="matrix(0.951, 0.309, -0.309, 0.951, 51.09, 10.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_54-5" data-name="Line 54" y2="10" transform="matrix(0.914, 0.407, -0.407, 0.914, 75.067, 21.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Component_4_6" data-name="Component 4 – 6" transform="translate(375.568 642.02) rotate(180)">
+      <line id="Line_51-6" data-name="Line 51" y2="10" transform="matrix(0.995, 0.105, -0.105, 0.995, 1.045, 0)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_52-6" data-name="Line 52" y2="10" transform="matrix(0.978, 0.208, -0.208, 0.978, 26.079, 3.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_53-6" data-name="Line 53" y2="10" transform="matrix(0.951, 0.309, -0.309, 0.951, 51.09, 10.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_54-6" data-name="Line 54" y2="10" transform="matrix(0.914, 0.407, -0.407, 0.914, 75.067, 21.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Component_4_7" data-name="Component 4 – 7" transform="translate(257.01 598.228) rotate(-150)">
+      <line id="Line_51-7" data-name="Line 51" y2="10" transform="matrix(0.995, 0.105, -0.105, 0.995, 1.045, 0)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_52-7" data-name="Line 52" y2="10" transform="matrix(0.978, 0.208, -0.208, 0.978, 26.079, 3.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_53-7" data-name="Line 53" y2="10" transform="matrix(0.951, 0.309, -0.309, 0.951, 51.09, 10.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_54-7" data-name="Line 54" y2="10" transform="matrix(0.914, 0.407, -0.407, 0.914, 75.067, 21.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Component_4_8" data-name="Component 4 – 8" transform="translate(177.331 498.273) rotate(-120)">
+      <line id="Line_51-8" data-name="Line 51" y2="10" transform="matrix(0.995, 0.105, -0.105, 0.995, 1.045, 0)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_52-8" data-name="Line 52" y2="10" transform="matrix(0.978, 0.208, -0.208, 0.978, 26.079, 3.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_53-8" data-name="Line 53" y2="10" transform="matrix(0.951, 0.309, -0.309, 0.951, 51.09, 10.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_54-8" data-name="Line 54" y2="10" transform="matrix(0.914, 0.407, -0.407, 0.914, 75.067, 21.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Component_4_9" data-name="Component 4 – 9" transform="translate(158 371.525) rotate(-90)">
+      <line id="Line_51-9" data-name="Line 51" y2="10" transform="matrix(0.995, 0.105, -0.105, 0.995, 1.045, 0)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_52-9" data-name="Line 52" y2="10" transform="matrix(0.978, 0.208, -0.208, 0.978, 26.079, 3.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_53-9" data-name="Line 53" y2="10" transform="matrix(0.951, 0.309, -0.309, 0.951, 51.09, 10.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_54-9" data-name="Line 54" y2="10" transform="matrix(0.914, 0.407, -0.407, 0.914, 75.067, 21.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Component_4_10" data-name="Component 4 – 10" transform="translate(199.317 253.596) rotate(-60)">
+      <line id="Line_51-10" data-name="Line 51" y2="10" transform="matrix(0.995, 0.105, -0.105, 0.995, 1.045, 0)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_52-10" data-name="Line 52" y2="10" transform="matrix(0.978, 0.208, -0.208, 0.978, 26.079, 3.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_53-10" data-name="Line 53" y2="10" transform="matrix(0.951, 0.309, -0.309, 0.951, 51.09, 10.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_54-10" data-name="Line 54" y2="10" transform="matrix(0.914, 0.407, -0.407, 0.914, 75.067, 21.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Component_4_11" data-name="Component 4 – 11" transform="translate(303.272 172.578) rotate(-30)">
+      <line id="Line_51-11" data-name="Line 51" y2="10" transform="matrix(0.995, 0.105, -0.105, 0.995, 1.045, 0)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_52-11" data-name="Line 52" y2="10" transform="matrix(0.978, 0.208, -0.208, 0.978, 26.079, 3.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_53-11" data-name="Line 53" y2="10" transform="matrix(0.951, 0.309, -0.309, 0.951, 51.09, 10.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_54-11" data-name="Line 54" y2="10" transform="matrix(0.914, 0.407, -0.407, 0.914, 75.067, 21.973)" fill="none" stroke="#d8dcdf" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
